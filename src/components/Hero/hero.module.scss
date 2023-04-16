@@ -10,14 +10,18 @@
 
         .upperElements {
             @media (max-width: $sm) {
+                
                 justify-content: center;
                 text-align: center;
                 gap: 2rem;
+               
             }
             display: flex;
             align-items: center;
             justify-content: space-between;
             flex-wrap: wrap;
+
+            
         }
 
 
@@ -64,6 +68,7 @@
             }
             position: absolute;
             bottom: -2rem;
+           
             margin: auto;
             background-image: url("../splash.png");
             background-repeat: no-repeat;
@@ -82,11 +87,14 @@
             @media (max-width: $sm ) {
                 position: relative;
                 display: none;
+                font-size: 100px;
             }
             position: absolute;
             top: 50%;
             left: 0;
+            font-size: 100px;
             color: orange;
+           
         }
     }
 }

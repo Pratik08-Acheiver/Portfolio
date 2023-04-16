@@ -21,11 +21,11 @@ const Footer = () => {
         <div className={css.left}>
           <span className="primaryText">
             Get to know me more <br />
-            <SocialIcon url="https://twitter.com/jaketrent" />
-            <SocialIcon url="https://www.facebook.com/pratik.anand.568/" />
-            <SocialIcon url="https://github.com/settings/profile" />
-            <SocialIcon url="https://www.linkedin.com/in/pratik-anand-8a042422b/" />
-            <SocialIcon url="https://profile.codingninjas.com/f51e2de4-8182-4c4f-80a8-77d108f79912?_ga=2.193551981.1597823869.1680176968-118149307.1671291797" />
+            <SocialIcon className={css.socicons} url="https://twitter.com/jaketrent" />
+            <SocialIcon className={css.socicons} url="https://www.facebook.com/pratik.anand.568/" />
+            <SocialIcon className={css.socicons} url="https://github.com/settings/profile" />
+            <SocialIcon className={css.socicons} url="https://www.linkedin.com/in/pratik-anand-8a042422b/" />
+            <SocialIcon className={css.socicons} url="https://profile.codingninjas.com/f51e2de4-8182-4c4f-80a8-77d108f79912?_ga=2.193551981.1597823869.1680176968-118149307.1671291797" />
 
             
           </span>

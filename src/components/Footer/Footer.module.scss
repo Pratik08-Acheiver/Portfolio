@@ -11,6 +11,9 @@
         }
         .left{
             flex: 3;
+            .socicons{
+                margin: 1rem;
+            }
             >*{
                 display: block;
             }

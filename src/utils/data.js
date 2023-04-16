@@ -33,7 +33,7 @@ export const workExp = [
     tenure: "Aug 2019 - June 2023",
     role: "STUDENT",
     detail:
-      "College life is indeed a great experience that teach us many things to cultivate out to be a good person.",
+      "College life is indeed a great experience that teach us many things to cultivate out to be a great person.",
   },
   {
     place: "Intermediate, 64.8 %",
@@ -45,7 +45,7 @@ export const workExp = [
   {
     place: "Matriculate, 9.8 CGPA",
     tenure: "March 2014 - March 2016",
-    role: "STUDENT",
+    role: "CBSE STUDENT",
     detail:
       "Certainly, most of us will agree here life is very peaceful till matriculate.",
   },
@@ -53,68 +53,27 @@ export const workExp = [
 
 export const comments = [
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Ritik Anand",
+    post: "Data Analyst Standard Chartered",
     comment:
       "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
+    img: "./ritik.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Nitin Anand",
+    post: "Software Engineer Country Delight.",
     comment:
       "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
+    img: "./nitin.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Megha Rani",
+    post: "STUDENT IIT-BHU",
     comment:
       "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
+    img: "./megha.png",
   },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
+  
 ];
 
 export const sliderSettings = {
