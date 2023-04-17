@@ -56,21 +56,21 @@ export const comments = [
     name: "Ritik Anand",
     post: "Data Analyst Standard Chartered",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Pratik has a great skill set around web development, consistently producing clean, efficient, and maintainable code. His attention to details is also noteworthy as he is able to spot potential issues and bugs before it becomes a big problem. Overall, I highly recommend Pratik  for any web development project as he is committed to delivering high-quality work that meets project needs and goals.",
     img: "./ritik.png",
   },
   {
     name: "Nitin Anand",
     post: "Software Engineer Country Delight.",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "He is determined fellow and is  consistently producing clean and efficient web applications. His attention to details is also noteworthy as he is able to spot potential issues and bugs before it becomes a big problem.Overall, I highly recommend Pratik  for any web development project as he is committed to delivering high-quality work that meets project needs and goals.",
     img: "./nitin.png",
   },
   {
     name: "Megha Rani",
     post: "STUDENT IIT-BHU",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "I am still a newbee but I look forward a lot to him to learn new skills into web development.He never misses a chance to amaze me with his skills and everytime puts something new before me.I am greatly thankful to him for all those knowledges.",
     img: "./megha.png",
   },
   
